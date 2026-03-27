@@ -1,0 +1,11 @@
+{
+  "name": "mcp-socket-leak-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node repro.mjs"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.27.1"
+  }
+}
